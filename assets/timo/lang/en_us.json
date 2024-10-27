@@ -1,0 +1,12 @@
+{
+    "block.customportalapi.customportalblock": "Custom Portal Block",
+
+    "biome.timo.rich": "Rich",
+    "tag.item.timo.illegal": "Illegal",
+    "tag.item.timo.spawn_eggs": "Spawn Eggs",
+    "tag.biome.minecraft.all_biomes": "All Biomes",
+    "tag.biome.minecraft.all_biomes_without_ocean": "All Biomes without Ocean",
+    "tag.biome.minecraft.end": "End",
+    "tag.biome.minecraft.nether": "Nether",
+    "tag.biome.minecraft.ocean": "Ocean"
+}
