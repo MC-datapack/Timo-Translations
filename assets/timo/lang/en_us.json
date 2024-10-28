@@ -1,7 +1,14 @@
 {
     "block.customportalapi.customportalblock": "Custom Portal Block",
 
+    "biome.timo.acacia_forest": "Acacia Forest",
+    "biome.timo.birch_forest": "Birch Forest",
+    "biome.timo.cherry_forest": "Cherry Forest",
+    "biome.timo.oak_forest": "Oak Forest",
     "biome.timo.rich": "Rich",
+    "biome.timo.spruce_forest": "Spruce Forest",
+
+
     "tag.item.timo.illegal": "Illegal",
     "tag.item.timo.spawn_eggs": "Spawn Eggs",
     "tag.biome.minecraft.all_biomes": "All Biomes",
